@@ -1,8 +1,8 @@
-# covidtracker
+# covidtracker![Screenshot from 2022-11-21 00-27-23](https://user-images.githubusercontent.com/54814827/202920677-d0f8d8af-dfbf-4ace-bc29-fe5645dc3aaf.png)
+
 
 A new Flutter project.
 
-recent:///96b400211d3aab10dee169ae637a78a1
 
 ## Getting Started
 
